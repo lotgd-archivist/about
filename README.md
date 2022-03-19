@@ -27,5 +27,8 @@ https://github.com/lotgd-archivist/lotgd_ds_edition_v2.5
 * DragonSlaver v3
 * DragonSlaver v3.5
 * 0.9.7+jt DE v2, v1
-* Versions older than 0.9.7
+* ~~Versions older than 0.9.7~~ Now archived on archive.org. Also available on SourceForge.
 * Version 0.9.8 Beta / Pre-Release
+* 1.0.6
+* 1.1.0 (DragonPrime)
+* 1.1.1 (DragonPrime)
