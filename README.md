@@ -1,6 +1,6 @@
 # Archived Versions
 
-**BEWARE** The following repositories contain very old code that you may not be able to run on modern setups.
+**BEWARE** The following repositories contain very old code that you may not be able to run on modern setups. And you maybe *should* not run them, unless you gave them a once-over in terms of security.
 
 ## 0.9.7
 
