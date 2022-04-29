@@ -10,6 +10,12 @@ German translation of the 0.9.7+jt edition, with additional extensions souch as 
 
 https://github.com/lotgd-archivist/logd_ext_ger
 
+## 1.x.x.
+
+The creative commons line of development.
+
+https://github.com/lotgd-archivist/lotgd_1.x
+
 ### DragonSlayer Edition v2
 
 An overhaul of the german edition, with changes basically too many to list.
@@ -25,10 +31,6 @@ https://github.com/lotgd-archivist/lotgd_ds_edition_v2.5
 # Known but missing versions:
 
 * DragonSlaver v3
-* DragonSlaver v3.5
 * 0.9.7+jt DE v2, v1
 * ~~Versions older than 0.9.7~~ Now archived on archive.org. Also available on SourceForge.
 * Version 0.9.8 Beta / Pre-Release
-* 1.0.6
-* 1.1.0 (DragonPrime)
-* 1.1.1 (DragonPrime)
