@@ -22,6 +22,10 @@ This is just a loosely organized collection of links that I found or was pointed
 * [My 1.x archive](https://github.com/lotgd-archivist/lotgd_1.x)
 * [My 0.9.x archive](https://github.com/lotgd-archivist/lotgd-0.9.x)
 
+## Tutorials
+
+* [SaucyWech's module tutorial](https://gist.github.com/alecnunn/ac77de1f48d218fee676) archived by alecnunn.
+
 ## History
 * [Stephen Kise](https://github.com/stephenKise/Legend-of-the-Green-Dragon/wiki/History) wrote a bit of a summary.
 * [I wrote](/other/ds_edition_history.md) a brief sumamry of the DragonSlayer Edition history.
