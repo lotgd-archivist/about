@@ -1,3 +1,7 @@
+# Useful links
+
+I put together some [links for the curious here](./Links.md).
+
 # Archived Versions
 
 **BEWARE** The following repositories contain very old code that you may not be able to run on modern setups. And you maybe *should* not run them, unless you gave them a once-over in terms of security.

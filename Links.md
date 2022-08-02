@@ -22,6 +22,10 @@ This is just a loosely organized collection of links that I found or was pointed
 * [My 1.x archive](https://github.com/lotgd-archivist/lotgd_1.x)
 * [My 0.9.x archive](https://github.com/lotgd-archivist/lotgd-0.9.x)
 
+## History
+* [Stephen Kise](https://github.com/stephenKise/Legend-of-the-Green-Dragon/wiki/History) wrote a bit of a summary.
+* [I wrote](/other/ds_edition_history.md) a brief sumamry of the DragonSlayer Edition history.
+
 ## Misc other repositories
 
 https://github.com/JASavell/logddragonprime
@@ -37,4 +41,4 @@ https://github.com/stephenKise/Legend-of-the-Green-Dragon
 1.1.2 fork with some more devevelopment activity until around 2020.
 
 https://github.com/lotgd/core
-Re-Implementating project, looks to be inactive.
+Re-Implementation project, looks to be inactive.
