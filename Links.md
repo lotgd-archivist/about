@@ -24,7 +24,7 @@ This is just a loosely organized collection of links that I found or was pointed
 
 ## Tutorials
 
-* [SaucyWech's module tutorial](https://gist.github.com/alecnunn/ac77de1f48d218fee676) archived by alecnunn.
+* [SaucyWech's module tutorial](https://gist.github.com/alecnunn/ac77de1f48d218fee676) archived by alecnunn. [1]
 
 ## History
 * [Stephen Kise](https://github.com/stephenKise/Legend-of-the-Green-Dragon/wiki/History) wrote a bit of a summary.
@@ -46,3 +46,9 @@ https://github.com/stephenKise/Legend-of-the-Green-Dragon
 
 https://github.com/lotgd/core
 Re-Implementation project, looks to be inactive.
+
+
+----
+**Footnotes:**
+
+[1]: I found a version in the wild here: https://legends-of-great-dragons.com/gemdust/tutorial.html ([here on archive.org](https://web.archive.org/web/20220322170207/https://legends-of-great-dragons.com/gemdust/tutorial.html))
