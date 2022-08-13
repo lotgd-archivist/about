@@ -6,13 +6,19 @@ I put together some [links for the curious here](./Links.md).
 
 **BEWARE** The following repositories contain very old code that you may not be able to run on modern setups. And you maybe *should* not run them, unless you gave them a once-over in terms of security.
 
-## 0.9.7
+## 0.9.x
+
+### Vanilla releases
+
+The versions 0.9.0 through 0.9.7 can be obtained on [SourceForge](https://sourceforge.net/p/lotgd/activity/?page=0&limit=100#54cec2fbe88f3d0c46367801) or the (internet archive](https://archive.org/details/lotgd-0.9.x).
 
 ### 0.9.7+jt DE v3
 
 German translation of the 0.9.7+jt edition, with additional extensions souch as houses, flirting and marriage and more.
 
 https://github.com/lotgd-archivist/logd_ext_ger
+
+
 
 ## 1.x.x.
 
