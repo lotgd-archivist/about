@@ -10,7 +10,7 @@ I put together some [links for the curious here](./Links.md).
 
 ### Vanilla releases
 
-The versions 0.9.0 through 0.9.7 can be obtained on (SourceForge)[https://sourceforge.net/p/lotgd/activity/?page=0&limit=100#54cec2fbe88f3d0c46367801] or the (internet archive](https://archive.org/details/lotgd-0.9.x].
+The versions 0.9.0 through 0.9.7 can be obtained on [SourceForge](https://sourceforge.net/p/lotgd/activity/?page=0&limit=100#54cec2fbe88f3d0c46367801] or the [internet archive](https://archive.org/details/lotgd-0.9.x).
 
 ### 0.9.7+jt DE v3
 
