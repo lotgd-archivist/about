@@ -26,6 +26,10 @@ The creative commons line of development.
 
 https://github.com/lotgd-archivist/lotgd_1.x
 
+Additionally, I have collected some modules in this repository:
+
+https://github.com/lotgd-archivist/1.x_modules
+
 ### DragonSlayer Edition v2
 
 An overhaul of the german edition, with changes basically too many to list.
