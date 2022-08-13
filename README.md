@@ -43,3 +43,14 @@ https://github.com/lotgd-archivist/lotgd_ds_edition_v2.5
 * DragonSlaver v3
 * 0.9.7+jt DE v2, v1
 * Version 0.9.8 Beta / Pre-Release
+
+
+## Other code
+
+I have also put together an archive of miscellanious code that I have obtained from the source.php of various servers:
+
+https://github.com/lotgd-archivist/Miscellaneous_Code
+
+And I have also found a ultility tool for writing colored text which I mirrored here:
+
+https://github.com/lotgd-archivist/df_colortool
